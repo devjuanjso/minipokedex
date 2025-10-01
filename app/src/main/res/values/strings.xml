@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">minipokedex</string>
+    <string name="app_name">MiniPokedex</string>
+    <string name="search_hint">Buscar Pokémon...</string>
+    <string name="loading">Carregando...</string>
 </resources>
